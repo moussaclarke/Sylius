@@ -877,7 +877,7 @@ final class ProductContext implements Context
     }
 
     /**
-     * @Given the product :product has original price :originalPrice
+     * @Given the product :product has original price at :originalPrice
      */
     public function theProductHasOriginalPrice(ProductInterface $product, string $originalPrice): void
     {

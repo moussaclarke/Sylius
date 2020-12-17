@@ -37,7 +37,7 @@
         "fakerphp/faker": "^1.9",
         "gedmo/doctrine-extensions": "^2.4.12",
         "jms/serializer-bundle": "^2.4",
-        "knplabs/gaufrette": "^0.8",
+        "knplabs/gaufrette": "^0.9",
         "knplabs/knp-gaufrette-bundle": "^0.7",
         "knplabs/knp-menu": "^3.1",
         "knplabs/knp-menu-bundle": "^3.0",
